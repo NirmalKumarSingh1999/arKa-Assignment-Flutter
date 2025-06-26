@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b140c2b6-b54d-4fa5-a3a1-e4cfec1c2755)🚀 Vayuz Flutter Assignment Website
+🚀 Vayuz Flutter Assignment Website
 A fully responsive React + Bootstrap website built with Vite based on a provided Figma design. This project demonstrates a modern UI layout with sidebar navigation, hero sections, layered images, contact forms, accordions, and more — all mobile-friendly and visually polished.
 
 📸 Screens & Components

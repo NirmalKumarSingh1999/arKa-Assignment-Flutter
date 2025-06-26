@@ -23,10 +23,6 @@ Custom CSS-in-JSX (for quick styling and overrides)
 
 Responsive Design (Mobile-first with Bootstrap grid)
 
-📂 Folder Structure
-arduino
-Copy
-Edit
 ├── public/
 │   └── images (logo, layered images, sidebar image)
 ├── src/
@@ -40,6 +36,7 @@ Edit
 │   └── App.jsx
 ├── index.html
 └── README.md
+
 
 Preview:
 ![image](https://github.com/user-attachments/assets/6fb33298-115c-4189-8b8e-b6050a097409)
